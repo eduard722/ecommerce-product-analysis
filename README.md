@@ -36,7 +36,7 @@ Olist Brazilian E-Commerce Dataset
 
 ---
 
-## 📈 Дашборд анализа
+## 📈 Дашборд
 
 ![Dashboard](dashboard/images/dashboard.jpg)
 
