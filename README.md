@@ -38,7 +38,7 @@ Olist Brazilian E-Commerce Dataset
 
 ## 📈 Дашборд анализа
 
-![Dashboard](images/dashboard (2).jpg)
+![Dashboard](dashboard/images/dashboard (2).jpg)
 
 ---
 
